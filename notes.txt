@@ -1,0 +1,8 @@
+Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data. 
+Supervised learning uses labeled data, while unsupervised learning discovers patterns in unlabeled data.
+
+Neural networks are inspired by the human brain and consist of layers of interconnected nodes, or neurons. 
+Each neuron applies a transformation to its inputs and passes the result to the next layer.
+
+Overfitting happens when a model learns noise and specific details from the training data instead of general patterns. 
+Regularization and more data can help reduce overfitting.
