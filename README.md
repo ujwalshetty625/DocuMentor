@@ -45,11 +45,3 @@ https://huggingface.co/spaces/UjwalShetty/DocuMentor
 
 ---
 
-## Project Structure
-
-```bash
-docu-mentor/
-│── app.py
-│── requirements.txt
-│── .env
-│── README.md
